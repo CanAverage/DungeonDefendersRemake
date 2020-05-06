@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Monk 2
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: b_Root
+    m_Weight: 0
+  - m_Path: b_Root/b_HipL
+    m_Weight: 0
+  - m_Path: b_Root/b_HipL/b_KneeL
+    m_Weight: 0
+  - m_Path: b_Root/b_HipL/b_KneeL/b_AnkleL
+    m_Weight: 0
+  - m_Path: b_Root/b_HipL/b_KneeL/b_AnkleL/b_BallL
+    m_Weight: 0
+  - m_Path: b_Root/b_HipR
+    m_Weight: 0
+  - m_Path: b_Root/b_HipR/b_KneeR
+    m_Weight: 0
+  - m_Path: b_Root/b_HipR/b_KneeR/b_AnkleR
+    m_Weight: 0
+  - m_Path: b_Root/b_HipR/b_KneeR/b_AnkleR/b_BallR
+    m_Weight: 0
+  - m_Path: b_Root/b_Spine1
+    m_Weight: 1
+  - m_Path: b_Root/b_Spine1/b_Spine2
+    m_Weight: 0
+  - m_Path: b_Root/b_Spine1/b_Spine2/b_ClavL
+    m_Weight: 1
+  - m_Path: b_Root/b_Spine1/b_Spine2/b_ClavL/b_ShoulderL
+    m_Weight: 1
+  - m_Path: b_Root/b_Spine1/b_Spine2/b_ClavL/b_ShoulderL/b_ElbowL
+    m_Weight: 1
+  - m_Path: b_Root/b_Spine1/b_Spine2/b_ClavL/b_ShoulderL/b_ElbowL/b_HandL
+    m_Weight: 1
+  - m_Path: b_Root/b_Spine1/b_Spine2/b_ClavR
+    m_Weight: 1
+  - m_Path: b_Root/b_Spine1/b_Spine2/b_ClavR/b_ShoulderR
+    m_Weight: 1
+  - m_Path: b_Root/b_Spine1/b_Spine2/b_ClavR/b_ShoulderR/b_ElbowR
+    m_Weight: 1
+  - m_Path: b_Root/b_Spine1/b_Spine2/b_ClavR/b_ShoulderR/b_ElbowR/b_HandR
+    m_Weight: 1
+  - m_Path: b_Root/b_Spine1/b_Spine2/b_Neck
+    m_Weight: 0
+  - m_Path: b_Root/b_Spine1/b_Spine2/b_Neck/b_Head
+    m_Weight: 0
+  - m_Path: Monk
+    m_Weight: 0

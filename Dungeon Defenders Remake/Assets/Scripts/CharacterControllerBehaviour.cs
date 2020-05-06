@@ -71,6 +71,10 @@ public class CharacterControllerBehaviour : MonoBehaviour
             ani.SetBool("Walking_l", false);
             ani.SetBool("Walking_r", false);
         }
+        if(Input.GetButtonUp("Fire1"))
+        {
+            ani.SetBool("Attack", true);
+        }
 
         if (Input.GetButtonDown("Jump")) {
             _jump = true;
